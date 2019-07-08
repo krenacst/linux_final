@@ -20,4 +20,20 @@
 7. relatív útvonal ./Flow
    abszolút útvonal /home/krenacst/Flow
 
-8.  
+8. touch zeta-szakaszzaro
+
+9. echo 'Hello' > zeta-szakaszzaro
+
+10. mv zeta-szakaszzaro feladat
+
+11. cp feladat feladat2
+
+12. rm feladat2  (rm -rf feladat2)
+
+13. cat feladat
+
+14.   
+
+15. ls /etc/systemd (ls -lah /etc/systemd)
+
+   sudo apt-get install mysql-server
