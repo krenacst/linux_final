@@ -1,0 +1,23 @@
+1. POSIX: Szabványcsalád, melyet a unix operációs rendszerek használnak.
+
+2. X11: grafikus megjelenítésért felelős szabvány
+
+3. stdin és stdout: Standard input (billentyűzet, egér) és standard output (monitor).
+
+4.  Daemonok: Háttérben futó folyamatok a linuxban.
+
+5. Mappák
+/bin: alapértelmezett alkalmazások
+
+/etc: szabványok
+
+/usr: felhasználói fiókhoz tartozó fájlok
+
+/home: felhasználó saját mappája
+
+6. A ponttal kezdődő fájlok és könyvtárak rejtettek.
+
+7. relatív útvonal ./Flow
+   abszolút útvonal /home/krenacst/Flow
+
+8.  
